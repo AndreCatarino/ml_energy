@@ -2,7 +2,7 @@
 
 # ml_energy
 
-Package for security in machine learning.
+Package for AI/ML research in the energy domain.
 
 
 [![PyPi Version](https://img.shields.io/pypi/v/ml_energy)](https://pypi.org/project/ml_energy/)
@@ -19,7 +19,7 @@ pip install ml_energy
 
 ## Introduction
 
-Some cool things here
+...
 
 
 ## Table of Contents

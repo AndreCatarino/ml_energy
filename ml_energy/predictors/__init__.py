@@ -1,3 +1,3 @@
-from ml_energy.predictors.base import BasePredictor
+from ml_energy.predictors.base import PrecictorBase
 
-__all__ = ["BasePredictor"]
+__all__ = ["PrecictorBase"]
