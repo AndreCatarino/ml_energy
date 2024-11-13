@@ -9,7 +9,7 @@ Package for AI/ML research in the energy domain.
 [![GitHub](https://img.shields.io/github/stars/AndreCatarino/ml_energy?style=social)](https://github.com/AndreCatarino/ml_energy)
 [![Documentation Status](https://readthedocs.org/projects/ml-security/badge/?version=latest)](https://ml-security.readthedocs.io/en/latest/?badge=latest)
 [![Downloads](https://static.pepy.tech/badge/ml_energy)](https://pepy.tech/project/ml_energy)
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/25cf2a7639dd468fa40868831caadeb7)](https://app.codacy.com/gh/AndreCatarino/ml_energy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/8935dafe7dff46a7be8f431657192c34)](https://app.codacy.com/gh/AndreCatarino/ml_energy/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 
 ## Installation
 
