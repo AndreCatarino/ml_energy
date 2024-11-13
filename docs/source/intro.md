@@ -1,6 +1,6 @@
 (intro)=
 
-# ml_ernegy
+# ml_energy
 
 Package for security in machine learning.
 
